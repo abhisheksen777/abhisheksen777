@@ -1,44 +1,31 @@
-# Hi, I'm Abhishek 👋
+## Hi, I'm Abhishek 👋
 
-## 🚀 About Me
+Computer Science student passionate about building real-world software.
 
-* 💻 Currently learning **C++ and Web Development**
-* 🌱 Improving problem-solving through **DSA**
-* 🎯 Goal: Become a skilled developer & contribute to open source
-* 🎮 Interested in **Game Development**
+### Currently Working On
+- Python Backend Development
+- Data Science Projects
+- DSA in C++
+- Preparing for JLPT N4
 
-## 🛠️ Tech Stack
+### Tech Stack
+Python
+C++
+Git
+GitHub
+SQL
+Pandas
+NumPy
+HTML
+CSS
 
-* **Languages:** C++, HTML, CSS
-* **Currently Learning:** JavaScript
-* **Tools:** Git, GitHub, VS Code
+### Current Projects
+📊 Sales Analytics Dashboard
+📄 AI PDF Summarizer
+🧠 DSA Practice (C++)
 
-## 📌 Projects
-
-* 🛒 Amazon Homepage Clone (HTML + CSS)
-* ✍️ Blog Website
-* 📚 DSA Practice Repository
-
-## 📈 What I'm Working On
-
-* Building consistent coding habits
-* Strengthening core programming concepts
-* Creating real-world projects
-
-⭐ *Trying to improve every day — one commit at a time*
-
-
-<!--
-**abhisheksen777/abhisheksen777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals for 2026
+- Build 8+ quality projects
+- Complete 300+ LeetCode problems
+- Pass JLPT N4
+- Land a software internship
